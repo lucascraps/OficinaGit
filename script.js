@@ -15,3 +15,6 @@ var pedro = "pacu"
 // git branch -m master
 // git remote add origin https://github.com/lucascraps/OficinaGit.git
 // git push -u origin master
+
+// git status --> ver o status dos arquivos do git
+ var pedrooo = ppppppppppppp
