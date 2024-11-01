@@ -22,3 +22,7 @@ i=0
  while ( i<10) {
     i++
  }
+
+ var abelardo = "feio arrumado"
+
+ console.log(`abelardo: ${abelardo}`)
