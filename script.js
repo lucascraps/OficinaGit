@@ -10,3 +10,8 @@ var pedro = "pacu"
 //  1 --> git init - inicializr o repositório
 //  2 --> git remote add origin "link do repositório aqui"
 //  3 --> git commmit -m "nome do commit"
+
+// 2 --> git commit -m "first commit"
+// git branch -m master
+// git remote add origin https://github.com/lucascraps/OficinaGit.git
+// git push -u origin master
