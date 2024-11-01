@@ -18,3 +18,7 @@ var pedro = "pacu"
 
 // git status --> ver o status dos arquivos do git
  var pedrooo = ppppppppppppp
+i=0
+ while ( i<10) {
+    i++
+ }
